@@ -32,12 +32,12 @@ Tech Stack:
 
 ---
 
-** 🎙️ StockPilot**  
+### 🎙️ StockPilot  
 AI-powered **voice inventory management system** designed for retailers and suppliers.
 
 ---
 
-** 📖 NyayaSarathi**  
+### 📖 NyayaSarathi 
 A **legal assistance platform** designed to simplify access to legal information.
 
 ---
