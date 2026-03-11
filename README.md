@@ -31,14 +31,44 @@ Tech Stack:
 `React.js` `Node.js` `Express` `Firebase` `Dialogflow` `OpenAI API` `Tailwind CSS`
 
 ---
-
+ 
 ### 🎙️ StockPilot  
-AI-powered **voice inventory management system** designed for retailers and suppliers.
+AI-powered **voice-based inventory management system** built to simplify stock management for small retailers and suppliers.
+
+**🤖 AI Capabilities**
+- Voice-to-text inventory updates
+- AI-driven stock analysis
+- Smart reorder recommendations
+
+**✨ Key Features**
+- Update inventory using voice commands
+- Real-time stock tracking
+- Automated supplier reorder alerts
+- Analytics dashboard for inventory insights
+
+**🌍 Impact**
+- Reduces manual inventory errors  
+- Saves time for shop owners  
+- Enables smarter inventory decisions
 
 ---
 
-### 📖 NyayaSarathi 
-A **legal assistance platform** designed to simplify access to legal information.
+### 📖 NyayaSarathi  
+AI-assisted **legal information platform** designed to make legal knowledge more accessible and understandable for citizens.
+
+**🤖 AI Capabilities**
+- AI-assisted legal information retrieval
+- Intelligent query handling for legal topics
+
+**✨ Key Features**
+- Simple interface for legal queries
+- Guidance on legal procedures and rights
+- Structured legal information resources
+
+**🌍 Impact**
+- Improves access to legal knowledge  
+- Bridges the gap between citizens and legal systems  
+- Helps users understand complex legal processes
 
 ---
 
@@ -52,10 +82,6 @@ Improved simulation and documentation for the experiment:
 Impact:
 - Used by engineering students across India
 - Improved UI clarity and simulation accuracy
-
----
-
-
 
 ---
 
@@ -83,8 +109,14 @@ Oracle Cloud Infrastructure • Vercel • Git • GitHub
 
 ## 🏆 Achievements
 
+🏅 **HackFest by SDC REC Banda, Hackathon WINNER**  
+winner with the AI based Inventory Mnagement platform based on Smart Management track **StockPilot**
+
 🏅 **HackSpace by GDG Noida, Hackathon Finalist**  
 Healthcare track finalist with the AI telehealth platform **PulseTalk**
+
+🏅 **HackFest by GDG Cloud New Delhi, Hackathon Finalist**  
+Smart Management track finalist with the AI based Inventory Mnagement platform **StockPilot**
 
 🎓 **Google Student Ambassador (2025–2026)**  
 Promoted Google AI tools and conducted AI workshops for **500+ students**
