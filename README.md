@@ -35,11 +35,6 @@ Tech Stack:
 ### 🎙️ StockPilot  
 AI-powered **voice-based inventory management system** built to simplify stock management for small retailers and suppliers.
 
-**🤖 AI Capabilities**
-- Voice-to-text inventory updates
-- AI-driven stock analysis
-- Smart reorder recommendations
-
 **✨ Key Features**
 - Update inventory using voice commands
 - Real-time stock tracking
@@ -55,10 +50,6 @@ AI-powered **voice-based inventory management system** built to simplify stock m
 
 ### 📖 NyayaSarathi  
 AI-assisted **legal information platform** designed to make legal knowledge more accessible and understandable for citizens.
-
-**🤖 AI Capabilities**
-- AI-assisted legal information retrieval
-- Intelligent query handling for legal topics
 
 **✨ Key Features**
 - Simple interface for legal queries
